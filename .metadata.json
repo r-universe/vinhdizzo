@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "DisImpact",
-    "oncran": true
-  },
-  {
     "package": "IRexamples",
     "oncran": true
   }

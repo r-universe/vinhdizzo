@@ -8,11 +8,6 @@
 	url = https://github.com/vinhdizzo/calpassapi
 	shallow = true
 	registered = true
-[submodule "DisImpact"]
-	path = DisImpact
-	url = https://github.com/vinhdizzo/disimpact
-	shallow = true
-	registered = true
 [submodule "IRexamples"]
 	path = IRexamples
 	url = https://github.com/vinhdizzo/irexamples
