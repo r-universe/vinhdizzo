@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "calpassapi"]
 	path = calpassapi
 	url = https://github.com/vinhdizzo/calpassapi
-	shallow = true
-	registered = true
 [submodule "DisImpact"]
 	path = DisImpact
 	url = https://github.com/vinhdizzo/disimpact
-	shallow = true
-	registered = true
 [submodule "IRexamples"]
 	path = IRexamples
 	url = https://github.com/vinhdizzo/irexamples
-	shallow = true
-	registered = true
